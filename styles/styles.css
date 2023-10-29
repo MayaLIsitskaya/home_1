@@ -1,0 +1,47 @@
+h1, h3, h5 {
+    text-align: left;
+}
+
+h2, h4, h6 {
+    text-align: right;
+    color: darkblue;
+}
+
+.texts_areas {
+    text-align: center;
+}
+
+.main_title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.inner_span {
+    color: red;
+}
+
+.italic_selection {
+    font-style: italic;
+}
+
+.bold_selection {
+    font-weight: bold;
+}
+
+.line_through {
+    text-decoration: line-through;
+}
+
+.left_align_block {
+    text-align: left;
+}
+
+.right_align_block {
+    text-align: right;
+}
+
+.links {
+    text-align: right;
+}
+
+
